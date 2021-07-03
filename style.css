@@ -64,6 +64,10 @@ h2 {
 }
 #full-stack-experience {
   border-left: 7px solid;
-  border-image: linear-gradient(orange, pink);
+  border-image: linear-gradient(purple, tomato);
   border-image-slice: 1;
+}
+
+footer p {
+  text-align: center;
 }
